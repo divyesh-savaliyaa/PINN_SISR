@@ -1,6 +1,6 @@
-# Self-induced stochastic resonance: A physics-informed neural network approach
+# Self-induced stochastic resonance: A physics-informed machine learning approach
 
-This repo contains the source code for the paper: A self-induced stochastic resonance problem: A physics-informed neural network approach
+This repo contains the source code for the paper: Self-induced stochastic resonance problem: A physics-informed machine learning approach
 
 Authors: Divyesh Savaliya, Marius E. Yamakou
 
