@@ -2,7 +2,7 @@
 
 This repo contains the source code for the paper: A self-induced stochastic resonance problem: A physics-informed neural network approach
 
-Authors: Divyesh Savaliya, Jens Habermann, Marius E. Yamakou
+Authors: Divyesh Savaliya, Marius E. Yamakou
 
 Paper link:
 
