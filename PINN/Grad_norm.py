@@ -42,5 +42,5 @@ def main(csv_path: str):
 
 
 if __name__ == "__main__":
-    csv_path = sys.argv[1] if len(sys.argv) > 1 else "grad_shares.csv"
+    csv_path = sys.argv[1] if len(sys.argv) > 1 else "checkpoints/grad_shares.csv"
     main(csv_path)
