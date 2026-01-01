@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("nrmse.csv")
+df = pd.read_csv("checkpoints/nrmse.csv")
 
 x = df["epoch"].to_numpy() / 1000.0
 
